@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello, TestField!\n");
+    printf("Hello, 人間\n");
 
     return 0;
 }
